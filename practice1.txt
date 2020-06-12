@@ -2,4 +2,8 @@ Iron Man (Tony Strak)
 
 Avengers 
 
+<<<<<<< HEAD
 Thor (Thunder)
+=======
+Captain America
+>>>>>>> f1
